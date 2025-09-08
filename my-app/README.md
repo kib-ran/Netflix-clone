@@ -1,12 +1,23 @@
-# React + Vite
+📺 Netflix Clone — Vite + React
+A responsive Netflix UI clone built with React, Vite, and TMDB API. Browse movies by genre, watch trailers, and enjoy a sleek interface — deployed via GitHub Pages.
+🚀 Live Site
+🔗 https://kb-ran.github.io/Netflix-clone
+🛠️ Tech Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 19 + Hooks
+- Vite
+- Axios
+- TMDB API
+- React YouTube
+- Material UI
+- GitHub Pages
+  📦 Features
+- Browse movies by genre
+- Watch trailers via YouTube
+- Responsive layout
+- Featured banner
+- GitHub Pages deployment
+  🧪 Local Setup
+  git clone https://github.com/kb-ran/Netflix-clone.git
+  cd Netflix-clone/my-app
+  npm run dev
