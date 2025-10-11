@@ -1,8 +1,5 @@
 📺 Netflix Clone — Vite + React
 A responsive Netflix UI clone built with React, Vite, and TMDB API. Browse movies by genre, watch trailers, and enjoy a sleek interface — deployed via GitHub Pages.
-🚀 Live Site
-🔗 https://kb-ran.github.io/Netflix-clone
-🛠️ Tech Stack
 
 - React 19 + Hooks
 - Vite
@@ -18,6 +15,6 @@ A responsive Netflix UI clone built with React, Vite, and TMDB API. Browse movie
 - Featured banner
 - GitHub Pages deployment
   🧪 Local Setup
-  git clone https://github.com/kb-ran/Netflix-clone.git
+  
   cd Netflix-clone/my-app
   npm run dev
